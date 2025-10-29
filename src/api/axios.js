@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://13.235.68.65/api", // change if deployed
+  baseURL: "http://15.207.111.236/api", // change if deployed
 });
 
 // Add JWT automatically if present
